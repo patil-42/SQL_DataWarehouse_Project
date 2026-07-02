@@ -8,3 +8,6 @@
 
 --step 3:
 .read flat_mart.sql
+
+--step 4
+.read skills_mart.sql
