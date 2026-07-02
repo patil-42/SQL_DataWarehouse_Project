@@ -27,3 +27,12 @@ INSERT INTO skills_job_dim (skill_id, job_id)
 SELECT skill_id, job_id
 FROM read_csv('C:/Users/patil/Downloads/Power_BI_LUKE/Data/star_schema_files/skills_job_dim.csv',
 AUTO_DETECT=true);
+
+
+SELECT * FROM company_dim LIMIT 5;
+
+SELECT * FROM skills_dim LIMIT 5;
+
+SELECT * FROM job_postings_fact LIMIT 5;
+
+SELECT * FROM skills_job_dim LIMIT 5;
