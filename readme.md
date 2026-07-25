@@ -151,7 +151,6 @@ This demonstrates incremental loading concepts using SQL.
 - CTEs
 - Aggregate Functions
 - Date Functions
-- MERGE
 - CREATE SCHEMA
 
 ---
