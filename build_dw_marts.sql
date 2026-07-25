@@ -15,5 +15,3 @@
 --step 5
 .read priority_mart.sql
 
---step 6
-.read priority_mart_updated.sql
